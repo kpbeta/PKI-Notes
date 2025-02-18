@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e785ab7079029d69",
+        "id": "6ac7fafe43805758",
         "type": "tabs",
         "children": [
           {
-            "id": "55a7e790ef864206",
+            "id": "ab299f37fc7319b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Clippings/DIY SSH Bastion Host.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d71f205c43eae19",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "08ebb4dc84f8351f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "DIY SSH Bastion Host"
             }
           }
         ]
@@ -184,8 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55a7e790ef864206",
+  "active": "ab299f37fc7319b0",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Clippings/fwknop Single Packet Authorization  Port Knocking.md",
+    "Clippings/DIY SSH Bastion Host.md",
+    "A study on Port Knocking Servers.md",
+    "Securing a Windows Server Logon with another factor.md",
+    "Clippings/Zero Trust Single Packet Authorization  Passive authorization.md",
+    "Clippings",
+    "Appendix/How to implement port knocking for RDP.md",
+    "Welcome.md",
+    "Appendix/What are the best of the softwares to setup port knocking?.md",
+    "Appendix/How to setup a SSH tunneled bastion host for RDP.md",
+    "Appendix"
   ]
 }
